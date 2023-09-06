@@ -1,4 +1,15 @@
-![MasterHead](https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg)
+<!-- ![MasterHead](https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg) -->
+<style>
+    .center-cropped {
+    width: 300px;
+    height: 300px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url('https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg');
+    }
+</style>
+
+<div class="center-cropped"></div>
 
 <h1 align="center">Hello 👋, I'm Joseph Comeaux</h1>
 <h3 align="center">An aspiring software engineer from California!</h3>
