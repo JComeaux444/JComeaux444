@@ -13,11 +13,15 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JComeaux444" alt="JComeaux444" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **Jikan Project**
+- 🔭 I’m currently working on **Jikan Project**, Currently making progress in private before release!
+
+- 👨‍💻 All of my projects will be available at ***AT A LATER DATE!***
 
 - 📫 How to reach me **Message me here or via [LinkedIn!](https://www.linkedin.com/in/joseph-a-comeaux/)**
 
 - 📄 Know about my experiences [My Resume!](https://www.linkedin.com/in/joseph-a-comeaux/overlay/1635539428457/single-media-viewer/?profileId=ACoAAEIJOxABGcfBWoQL4E5_ltkt8n6RQ6kFN18)
+
+- 💬 Ask me about my current project or past Kaggle Projects!
 
 - ⚡ Fun fact **I love learning new programming languages!**
 
