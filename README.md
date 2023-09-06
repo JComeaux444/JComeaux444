@@ -1,15 +1,7 @@
 <!-- ![MasterHead](https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg) -->
-<head>
-<style>
-    .center-cropped {
-    width: 300px;
-    height: 300px;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-image: url('https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg');
-    }
-</style>
-</head>
+<p align="center">
+    <img src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg" alt="drawing" height="400"/>
+</p>
 
 <div class="center-cropped"></div>
 
