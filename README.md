@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Jikan Project**, Currently making progress in private before release!
 
-- 👨‍💻 All of my projects will be available at ***AT A LATER DATE!***
+- 👨‍💻 All of my larger projects will be available at ***AT A LATER DATE!***
 
 - 📫 How to reach me **Message me here or via [LinkedIn!](https://www.linkedin.com/in/joseph-a-comeaux/)**
 
