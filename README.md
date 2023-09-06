@@ -1,9 +1,12 @@
+[![MasterHead](https://img.pikbest.com/png-images/web-development-and-programming-coding-concept-seo-optimization-vector-graphics-element_1407260.png!w700wp)]
+
 <h1 align="center">Hello 👋, I'm Joseph Comeaux</h1>
 <h3 align="center">An aspiring software engineer from California!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JComeaux444&label=Profile%20views&color=0e75b6&style=flat" alt="JComeaux444" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JComeaux444" alt="JComeaux444" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JComeaux444" alt="JComeaux444" /></a> </p>
+-->
 
 - 🔭 I’m currently working on **Jikan Project**
 
