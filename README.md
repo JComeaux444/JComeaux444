@@ -1,4 +1,5 @@
 <!-- ![MasterHead](https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg) -->
+<head>
 <style>
     .center-cropped {
     width: 300px;
@@ -8,6 +9,7 @@
     background-image: url('https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg');
     }
 </style>
+</head>
 
 <div class="center-cropped"></div>
 
