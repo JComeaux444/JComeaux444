@@ -1,4 +1,4 @@
-![MasterHead](https://img.pikbest.com/png-images/web-development-and-programming-coding-concept-seo-optimization-vector-graphics-element_1407260.png!w700wp)
+![MasterHead](https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg)
 
 <h1 align="center">Hello 👋, I'm Joseph Comeaux</h1>
 <h3 align="center">An aspiring software engineer from California!</h3>
