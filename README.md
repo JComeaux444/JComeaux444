@@ -23,7 +23,7 @@
 
 - 💬 Ask me about my current project or past Kaggle Projects!
 
-- ⚡ Fun fact **I love learning new programming languages!**
+- ⚡ Fun fact **I love 3D printing and rocketry!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
