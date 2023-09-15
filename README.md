@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Message me here or via [LinkedIn!](https://www.linkedin.com/in/joseph-a-comeaux/)**
 
-- 📄 Know about my experiences [My Resume!](https://www.linkedin.com/in/joseph-a-comeaux/overlay/1635539428457/single-media-viewer/?profileId=ACoAAEIJOxABGcfBWoQL4E5_ltkt8n6RQ6kFN18)
+- 📄 Know about my experiences [My Resume!](https://www.linkedin.com/in/joseph-a-comeaux/overlay/1635540826242/single-media-viewer/?profileId=ACoAAEIJOxABGcfBWoQL4E5_ltkt8n6RQ6kFN18)
 
 - 💬 Ask me about my current project or past Kaggle Projects!
 
