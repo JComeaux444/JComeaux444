@@ -13,7 +13,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JComeaux444" alt="JComeaux444" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **Jikan Project**, Currently making progress in private before release!
+- 🔭 I’m currently working on a **Jikan Webpage Project**, Currently making progress in private before release!
 
 - 👨‍💻 All of my larger projects will be available at ***AT A LATER DATE!***
 
