@@ -17,7 +17,7 @@
 <!-- - 👨‍💻 All of my larger projects will be available at ***AT A LATER DATE!***   -->
 - 📫 How to reach me **Message me here or via [LinkedIn!](https://www.linkedin.com/in/joseph-a-comeaux/)**
 
-- 📄 Know about my experiences [My Resume!](https://www.linkedin.com/in/joseph-a-comeaux/overlay/1635542516319/single-media-viewer/?profileId=ACoAAEIJOxABGcfBWoQL4E5_ltkt8n6RQ6kFN18)
+- 📄 Know about my experiences [My Resume!](https://www.linkedin.com/in/joseph-a-comeaux/overlay/1635543151418/single-media-viewer/?profileId=ACoAAEIJOxABGcfBWoQL4E5_ltkt8n6RQ6kFN18)
 
 - 💬 Ask me about my current project or past Kaggle Projects!
 
