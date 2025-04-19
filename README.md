@@ -1,9 +1,9 @@
 <!-- ![MasterHead](https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg) -->
-<!--
+
 <p align="center">
     <img src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg" alt="drawing" height="300"/>
 </p>
--->
+
 <div class="center-cropped"></div>
 
 <h1 align="center">Hello 👋, I'm Joseph Comeaux</h1>
