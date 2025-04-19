@@ -1,25 +1,28 @@
 <!-- ![MasterHead](https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg) -->
+<!--
 <p align="center">
     <img src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg" alt="drawing" height="300"/>
 </p>
-
+-->
 <div class="center-cropped"></div>
 
 <h1 align="center">Hello 👋, I'm Joseph Comeaux</h1>
-<h3 align="center">An aspiring software engineer from California!</h3>
+<h3 align="center">An software engineer from California.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JComeaux444&label=Profile%20views&color=0e75b6&style=flat" alt="JComeaux444" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JComeaux444" alt="JComeaux444" /></a> </p>
 -->
 
-- 🔭 I’m currently working on a **An autonomous drone project, embedded systems and web development**!
+- 🔭 I’m currently working on **Game Devlopement, and embedded systems**!
+
+- 👨‍💻 My Past projects include: Autonomous drones and Web Development.
 <!-- - 👨‍💻 All of my larger projects will be available at ***AT A LATER DATE!***   -->
 - 📫 How to reach me **Message me here or via [LinkedIn!](https://www.linkedin.com/in/joseph-a-comeaux/)**
 
 - 📄 Know about my experiences [My Resume!](https://www.linkedin.com/in/joseph-a-comeaux/overlay/1635546143617/single-media-viewer/?profileId=ACoAAEIJOxABGcfBWoQL4E5_ltkt8n6RQ6kFN18)
 
-- 💬 Ask me about my current project or past Kaggle Projects!
+- 💬 Ask me about my current or past Projects!
 
 - ⚡ Fun fact **I love 3D printing and rocketry!**
 
